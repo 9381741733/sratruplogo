@@ -1,1 +1,1 @@
-# sratruplogo
+startup logo 
